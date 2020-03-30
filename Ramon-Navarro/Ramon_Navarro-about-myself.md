@@ -1,5 +1,5 @@
-"Ramon Navarro \n"
-"My hobbies are: \n"
-"1)Football \n"
-"2)Ski \n"
-"3)Cook"
+Ramon Navarro
+My hobbies are:
+1)Football
+2)Ski
+3)Cook
