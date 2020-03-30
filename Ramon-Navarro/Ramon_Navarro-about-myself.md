@@ -1,5 +1,5 @@
-print("Ramon Navarro \n")
-print("My hobbies are: \n")
-print("1-Football \n")
-print("2-Ski \n")
-print("3-Cook")
+Ramon Navarro
+My hobbies are:
+1-Football
+2-Ski
+3-Cook
