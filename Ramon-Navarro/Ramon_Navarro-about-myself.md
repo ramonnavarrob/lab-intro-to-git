@@ -1,5 +1,5 @@
-"Ramon Navarro \n"
-"My hobbies are: \n"
-"1)Football \n"
-"2)Ski \n"
-"3)Cook"
+print("Ramon Navarro \n")
+print("My hobbies are: \n")
+print("1-Football \n")
+print("2-Ski \n")
+print("3-Cook")
