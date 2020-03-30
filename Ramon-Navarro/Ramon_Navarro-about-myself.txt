@@ -1,0 +1,17 @@
+Ramon Navarro
+My hobbies are:
+<<<<<<< HEAD:Ramon-Navarro/Ramon_Navarro-about-myself.md
+<<<<<<< HEAD
+1-Football
+2-Ski
+3-Cook
+=======
+1)Football
+2)Ski
+3)Cook
+>>>>>>> feature
+=======
+1-Football
+2-Ski
+3-Cook
+>>>>>>> feature:Ramon-Navarro/Ramon_Navarro-about-myself.txt
